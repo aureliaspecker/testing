@@ -8,7 +8,7 @@ This module explores the following:
 * Mocha and Basic Testing
 * Watch and Auto Restarting Tests
 * Using Assertion Library
-* Testing Asynchronous Code & the Importance of done()
+* Testing Asynchronous Code & the Importance of `done()`
 * Testing Express Applications (Testing HTTPS Requests)
-* Organising Tests with describe()
-* Test Spies & Using rewire()
+* Organising Tests with `describe()`
+* Test Spies & Using `rewire()`
